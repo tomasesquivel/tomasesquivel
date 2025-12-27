@@ -37,10 +37,10 @@ Open to contributing to open source projects and collaborating with other develo
 ---
 ## Check out my Social Media
 
-<a href="https://www.instagram.com/tu_usuario_de_instagram/">
+<a href="https://www.instagram.com/tomashmpp/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
-<a href="https://www.linkedin.com/in/tu_usuario_de_linkedin/">
+<a href="https://www.linkedin.com/in/tomas-joaquin-esquivel/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
 </a>
 
